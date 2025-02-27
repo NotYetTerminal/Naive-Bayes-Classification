@@ -18,7 +18,7 @@ This repository contains a [Jupyter](https://jupyter.org/) Notebook for the trai
 
 The data for the websties both phishing and legitimate was downloaded from [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/327/phishing+websites).
 
-Overall there are 29 features for each entry in the ARFF file that describe the websites used to classify them, and around 11 thousand entries for different websites both phishing and legitimate. The exact names and domains of websites is not given in the data set though. An explanation of the features of the data set is available in the [DOCX file](../phishing_websites_data/Phishing%20Websites%20Features.docx) provided with the data.
+Overall there are 29 features for each entry in the ARFF file that describe the websites used to classify them, and around 11 thousand entries for different websites both phishing and legitimate. The exact names and domains of websites is not given in the data set though. An explanation of the features of the data set is available in the [DOCX file](phishing_websites_data/Phishing%20Websites%20Features.docx) provided with the data.
 
 ### Process
 
